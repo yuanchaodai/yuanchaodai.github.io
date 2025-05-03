@@ -1,9 +1,9 @@
 - title: Email
   url: mailto://daiyc24@mails.jlu.edu.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: School
+  url: https://ccst.jlu.edu.cn/
+  icon: fa-solid fa-school
 - title: GitHub
   url: https://github.com/yuanchaodai
   icon: fab fa-github
