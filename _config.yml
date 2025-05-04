@@ -53,7 +53,7 @@ sass:
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-#author:
-#  name: Songzi Vong
-#  url: https://github.com/vszhub/
-#  email: vszhub@gmail.com
+author:
+  name: Songzi Vong
+  url: https://github.com/vszhub/
+  email: vszhub@gmail.com
