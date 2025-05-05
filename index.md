@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 学术成果
 permalink: /
 ---
