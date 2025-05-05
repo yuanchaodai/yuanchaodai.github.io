@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 学术成果
+title: 🎉 News
 permalink: /
 ---
 
