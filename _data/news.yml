@@ -1,0 +1,68 @@
+# news items
+items:
+
+  - date: '04/2025'
+    content: 'Our paper "Exploring Multi-Agent Dynamics for Generative AI and Large Language Models in Mobile Edge Networks" has been accepted by IEEE Wireless Communications (通信作者, 中科院1区)!'
+
+  - date: '03/2025'
+    content: 'Our paper "A Correlated Data-Driven Collaborative Beamforming Approach for Energy-efficient IoT Data Transmission" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+
+  - date: '02/2025'
+    content: 'Our paper "UAV-assisted Joint Mobile Edge Computing and Data Collection via Matching-enabled Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+
+  - date: '01/2025'
+    content: 'Our paper "Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
+
+  - date: '12/2024'
+    content: 'Our paper "Enhanced Multi-Objective Optimization Approach for Low-Interference UAV Communication Based on Collaborative Beamforming" has been awarded the <font color="#C00000">Best Paper Award</font> at the Special Session on Intelligent Signal Processing, IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024). (CCF C类会议)!'
+
+  - date: '12/2024'
+    content: 'Our paper "Dual UAV Cluster-Assisted Maritime Physical Layer Secure Communications via Collaborative Beamforming" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+  
+  - date: '12/2024'
+    content: 'Our paper "UAV-enabled Secure Data Collection and Energy Transfer in IoT via Diffusion Model-enhanced Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+  
+  - date: '12/2024'
+    content: 'Our paper "UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+  
+  - date: '11/2024'
+    content: 'Our paper "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
+  
+  - date: '10/2024'
+    content: 'Our paper "Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion" has been accepted by Chinese Journal of Aeronautics (通信作者, 中科院1区)!'
+  
+  - date: '08/2024'
+    content: 'Our paper "Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning" has been accepted by Applied Soft Computing (通信作者, 中科院1区)!'
+  
+  - date: '08/2024'
+    content: 'Our paper "Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning" has been accepted by IEEE Journal on Selected Areas in Communications (第一作者, CCF-A)!'
+  
+  - date: '07/2024'
+    content: 'We will organize a Special Issue "<a href="https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691">Empowering IoT With AI: AIoT for Smart and Autonomous Systems</a>" in Electronics, welcome to submit papers!'
+  
+  - date: '07/2024'
+    content: 'Our paper "IRS-enabled Wireless Power Transfer and Data Collection in UAV-assisted IoT" has been accepted by IEEE GLOBECOM 2024 (通信作者, CCF-C)!'
+  
+  - date: '07/2024'
+    content: 'Our paper "Task Execution Latency Minimization for Energy-sensitive IoTs in Wireless Powered Mobile Edge Computing: A DRL-based Method" has been accepted by Computer Networks (通信作者, CCF-B)!'
+  
+  - date: '06/2024'
+    content: 'Our paper "UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
+  
+  - date: '05/2024'
+    content: 'Our paper "Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks" has been accepted by IEEE Transactions on Wireless Communications (通信作者, 中科院1区)!'
+  
+  - date: '03/2024'
+    content: 'Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" has been accepted by Applied Soft Computing (通信作者, 中科院1区)!'
+  
+  - date: '02/2024'
+    content: 'I will serve as a PC member of ICA3PP 2024!'
+  
+  - date: '01/2024'
+    content: 'Our paper "Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning" has been accepted by IEEE ICC 2024 (通信作者, CCF-C)!'
+  
+  - date: '12/2023'
+    content: 'Our paper "Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays" has been accepted by IEEE WCNC 2024 (通信作者, CCF-C)!'
+
+  - date: '12/2023'
+    content: 'Our paper "Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion" has been accepted by IEEE INFOCOM 2024 (第一作者, CCF-A)!'
