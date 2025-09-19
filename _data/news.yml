@@ -1,7 +1,10 @@
 # news items
 items:
+  - date: '09/2025'
+    content: 'Our paper "Balancing Positive and Negative Classification Error Rates in Positive-Unlabeled Learning" has been accepted by Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 (除导师外第一作者, <strong>CCF-A</strong>)!'
   
-  
+  - date: '09/2025'
+    content: 'Our paper "A Closer Look to Positive-Unlabeled Learning from Fine-grained Perspectives: An Empirical Study" has been accepted by Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 (第一作者, <strong>CCF-A</strong>)!'
   
   - date: '05/2025'
     content: 'Our paper "Confidence Difference Reflects Various Supervised Signals in Confidence-Difference Classification" has been accepted by International Conference on Machine Learning (ICML), 2025 (第一作者, <strong>CCF-A</strong>)!'
