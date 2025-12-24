@@ -1,7 +1,7 @@
 # news items
 items:
   - date: '12/2025'
-    content: '祝贺入选2025年中国科协青年科技人才培育工程博士生专项计划 (<strong>托举学会：中国计算机学会</strong>)!'
+    content: '祝贺入选2025年<strong>中国科协青年科技人才培育工程博士生专项计划</strong> 托举学会：(<strong>中国计算机学会</strong>)!'
   
   - date: '09/2025'
     content: 'Our paper "Balancing Positive and Negative Classification Error Rates in Positive-Unlabeled Learning" has been accepted by Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 (除导师外第一作者, <strong>CCF-A</strong>)!'
